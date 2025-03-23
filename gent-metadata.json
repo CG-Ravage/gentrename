@@ -1,18 +1,20 @@
 {
   "name": "GENT",
   "symbol": "GENT",
+  "uri": "https://raw.githubusercontent.com/CG-Ravage/gentrename/main/gent-metadata.json",
   "description": "GENT is a community-driven token supporting autistic and disabled adults.",
-  "image": "https://raw.githubusercontent.com/CG-Ravage/gentrename/main/GENT%20orange%20logo.png",
+  "image": "https://raw.githubusercontent.com/CG-Ravage/gentrename/main/GENT%20orange%20blue%20logo.png",
   "seller_fee_basis_points": 0,
   "external_url": "https://github.com/CG-Ravage/gentrename",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/CG-Ravage/gentrename/main/GENT%20orange%20logo.png",
+        "uri": "https://raw.githubusercontent.com/CG-Ravage/gentrename/main/GENT%20orange%20blue%20logo.png",
         "type": "image/png"
       }
     ],
     "category": "image"
   }
 }
+
